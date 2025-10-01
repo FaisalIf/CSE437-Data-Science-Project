@@ -113,20 +113,11 @@ Steps taken:
 
 Models were evaluated using:
 
-1. **Root Mean Squared Error (RMSE)**  
-   \[
-   RMSE = \sqrt{\frac{1}{n} \sum\_{i=1}^{n} (y_i - \hat{y}\_i)^2}
-   \]
+1. **Root Mean Squared Error (RMSE)**
 
-2. **R-squared (R²)**  
-   \[
-   R^2 = 1 - \frac{\sum (y_i - \hat{y}\_i)^2}{\sum (y_i - \bar{y})^2}
-   \]
+2. **R-squared (R²)**
 
-3. **Mean Absolute Percentage Error (MAPE)**  
-   \[
-   MAPE = \frac{100\%}{n} \sum\_{i=1}^{n} \left| \frac{y_i - \hat{y}\_i}{y_i} \right|
-   \]
+3. **Mean Absolute Percentage Error (MAPE)**
 
 ---
 
